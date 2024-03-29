@@ -72,6 +72,9 @@ bReadGroupIds				= True					#Import/Export with the GroupID as the MainMesh numb
 #Plugin GUI
 iListboxSize  				= 280					#The height of the list box in the plugin's import menu
 
+#isDD2Mesh Assignment
+isDD2Mesh 				= None					#The height of the list box in the plugin's import menu
+
 from inc_noesis import *
 from collections import namedtuple
 import noewin
